@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @mfolker
-- 👀 I’m interested in authorization & authentication, security and artificial intelligence
-- 🌱 I’m currently learning machine learning tools TensorFlow, scikit learn etc. I've also been looking at the signal protocol.
+- 👀 I’m interested in authorization & authentication, security, open banking and artificial intelligence.
+- 🌱 I’m currently learning TensorFlow, scikit learn etc. I've also been looking at the signal protocol.
 - 💞️ I’m not sure what i'd like to collaborate on. Probably something security or AI related.
